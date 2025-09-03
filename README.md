@@ -2,7 +2,8 @@
 Robotic Process Automation (RPA) is a Year 2 Module in TP.  It introduces students to the techniques of using an automation tool to automate tasks within a business process. It touches on the various use cases of RPA and provides a platform for students to creatively apply the concepts. It also discusses the challenges and limitations of RPA
 
 
-## What my RPA Project do?
+## What does my RPA Project do?
+[Read through my 'Presentation' Slides for a better understanding]
 **1. Automated Data Handling**
 - Pull data from MySQL.
 - Clean it (remove special characters via Regex).
